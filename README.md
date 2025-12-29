@@ -11,7 +11,7 @@ After completing this course, students will:
 - Have experience testing and analyzing your software
 - Understand principles of concurrency and distributed systems
 
-See a more detailed list of [learning goals](https://cmu-17-214.github.io/f2025/learninggoals.html) describing what we want students to know or be able to do by the end of the semester. We evaluate whether learning goals have been achieved through assignments and exams.
+See a more detailed list of [learning goals](https://cmu-17-214.github.io/s2026/learninggoals.html) describing what we want students to know or be able to do by the end of the semester. We evaluate whether learning goals have been achieved through assignments and exams.
 
 ### Coordinates
 
@@ -351,8 +351,7 @@ The schedule below reflects our current plans, but will be updated throughout th
 
 Instructor: [Hammad Ahmad](https://hammadahmad.io/) [hammada]
 
-TAs:
-- TBD
+TAs: TBD
 
 ## <a name="syllabus"></a>Course Syllabus and Policies
 
@@ -386,7 +385,7 @@ Each student can *resubmit* any *one* assignment milestone (*except HWs 2a, 2b, 
 
 **Participation and quizzes.** You should expect a quiz at the start of nearly every lecture and often additional in-class activities within the lecture. When a reading assignment is given, the quiz will typically touch on the content from the reading material. Otherwise (and sometimes in addition), the quiz centers around the content from the most recent lecture or two. A quiz will typically have 1-2 questions and is graded pass/fail.
 
-**Labs.** Labs will be graded on a pass/no pass basis during recitations. You will have a chance during recitation to improve your solution. See a description [here](https://github.com/CMU-17-214/f2025/blob/main/labs.md).
+**Labs.** Labs will be graded on a pass/no pass basis during recitations. You will have a chance during recitation to improve your solution. See a description [here](https://github.com/CMU-17-214/s2026/blob/main/labs.md).
 
 **Late work.** We understand that normal life events, including projects and exams in other courses and technical difficulties out of your control, can interfere with your ability to complete your work on time or attend lectures and recitations. Our philosophy is that our late work policy includes built-in flexibility but that the policy will be uniformly applied to all students in all circumstances. Exceptions to this policy will be made only with explicit accommodations, almost always involving a family or medical emergency with your academic advisor or the Dean of Student Affairs requesting the exception on your behalf.
 
