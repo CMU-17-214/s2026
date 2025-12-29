@@ -306,7 +306,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr>
       <td>Wed, Apr 15</td>
-      <td class="break">No Class, Thanksgiving Break</td>
+      <td>TBD</td>
       <td />
     </tr>
     <tr>
