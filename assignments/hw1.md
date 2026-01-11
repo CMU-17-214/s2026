@@ -6,7 +6,7 @@ In this assignment, you will complete a simple [flashcard](https://en.wikipedia.
 
 Like often common in software engineering practice, you won't start entirely from scratch but start with an existing implementation. Fortunately, it's even somewhat documented and clean, so you should be able to figure out what's happening by reading documentation and code. You may change existing code if you like.
 
-With the [GitHub classroom link on Canvas](https://canvas.cmu.edu/courses/48225/assignments/854361), create a Git repository with the provided starter code. If you already did this for Lab 1, you do not need to do it again. The repository has one directory for Java and one directory for TypeScript. You will complete the tasks for this homework once **in each language**. Each directory has its own README with language specific information. (You can ignore the achievement module in the Java implementation; that module is not used in this assignment.)
+With the [GitHub classroom link on Canvas](https://canvas.cmu.edu/courses/51604/assignments/926997), create a Git repository with the provided starter code. If you already did this for Lab 1, you do not need to do it again. The repository has one directory for Java and one directory for TypeScript. You will complete the tasks for this homework once **in each language**. Each directory has its own README with language specific information. **(You can ignore the achievement module in the Java implementation; that module is not used in this assignment.)**
 
 You should use an IDE to load and edit the projects. We recommend [VSCode](https://code.visualstudio.com/) for both Java and TypeScript development, but you are welcome to use [IntelliJ](https://www.jetbrains.com/idea/) or other IDEs if you prefer (note you can get free access to Enterprise IntelliJ via an Education discount, which will also give you access to TypeScript support).
 
@@ -69,7 +69,7 @@ In order to keep runtime minimum for the automated checks, all GitHub Action che
 
 ## Submitting your work
 
-Always push all code to GitHub. Once you have pushed your final code there and are done with the assignment, you should submit a link to your final commit on Canvas. A link will look like `https://github.com/CMU-17-214-Students/<reponame>/commit/<commitid>`. You can get to this link easily when you click on the last commit (above the list of files) in the GitHub web interface. Paste this link into the text box on the assignment submission page located on Canvas and click submit.
+Always push all code to GitHub. Once you have pushed your final code there and are done with the assignment, you should submit a link to your final commit on Canvas. **A link will look like `https://github.com/CMU-17-214-Students/<reponame>/commit/<commitid>`.** You can get to this link easily when you click on the last commit (above the list of files) in the GitHub web interface. Paste this link into the text box on the assignment submission page located on Canvas and click submit. (Note: We ask you to submit a **commit link**, not a link to your HW repo.)
 
 ## Evaluation
 
