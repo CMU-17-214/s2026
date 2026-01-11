@@ -50,7 +50,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr>
       <td>Fri, Jan 16</td>
-      <td><span class="rec">Lab 1</span> Course Infrastructure Setup</td>
+      <td><span class="rec">Lab 1</span> <a href="https://github.com/CMU-17-214/s2026/blob/main/labs/lab01.md" target="_blank">Course Infrastructure Setup</a></td>
       <td></td>
     </tr>
   </tbody>
@@ -74,7 +74,7 @@ The schedule below reflects our current plans, but will be updated throughout th
   <tbody>
     <tr>
       <td>Mon, Jan 26</td>
-      <td><span class="assignment"><span class="hw">HW 1 due</span> Flash cards (Intro to OO and Libraries)</td>
+      <td><span class="assignment"><span class="hw">HW 1 due</span> <a href="https://github.com/CMU-17-214/s2026/blob/main/assignments/hw1.md" target="_blank">Flash cards (Intro to OO and Libraries)</a></td>
       <td />
     </tr>
     <tr class="">
@@ -351,7 +351,11 @@ The schedule below reflects our current plans, but will be updated throughout th
 
 Instructor: [Hammad Ahmad](https://hammadahmad.io/) [hammada]
 
-TAs: TBD
+TAs: 
+- Brunce Cheng [yikangc]
+- Jingxuan Zhang [jingxua7]
+- Alex Feies [afeies]
+- David Hu [junningh]
 
 ## <a name="syllabus"></a>Course Syllabus and Policies
 
