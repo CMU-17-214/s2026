@@ -10,7 +10,7 @@ During this course, you will become familiar with several popular and industry-r
 
 ## Setting Up Your Repo
 
-In this lab, we will work with the starter code from homework 1. Each student in 17-214/514 is assigned a GitHub repo per homework assignment. You can create it by following the GitHub Classroom link in the description of [Homework 1 on Canvas](https://canvas.cmu.edu/courses/48225/assignments/854361).
+In this lab, we will work with the starter code from homework 1. Each student in 17-214/514 is assigned a GitHub repo per homework assignment. You can create it by following the GitHub Classroom link in the description of [Homework 1 on Canvas](https://canvas.cmu.edu/courses/51604/assignments/926997).
 
 * If you do not have *git* yet, follow the [download instructions](https://git-scm.com/downloads).
 * If you do not have a *GitHub* account yet, [create one](https://github.com/).
@@ -18,8 +18,8 @@ In this lab, we will work with the starter code from homework 1. Each student in
 
 **Setting up your Personal Access Token.** Before cloning the repository, you should set up your own personal access token; otherwise, you might get an invalid username or password error. GitHub removes these every year, so even if you have made one in the past, you may need to recreate it. You can follow the [instructions](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) for the general outline on how and where to create a (classic) personal access token. Some things to note:
 
-* You can name it something like 17214f25 or whatever you’d like
-* Set the expiration date to be some time past the end of the semester (e.g. 12/21/25), so that you don’t have to make it again this semester
+* You can name it something like 17214s26 or whatever you’d like
+* Set the expiration date to be some time past the end of the semester (e.g. 05/01/26), so that you don’t have to make it again this semester
 * You can select all of the options if you’d like and read more about what they do [here](https://docs.github.com/en/developers/apps/building-oauth-apps/scopes-for-oauth-apps). At the very least, make sure you have the **repo, workflow, user, project** scopes selected.
 * **Important:** Once you generate the token, make sure you save it somewhere safe and accessible to you before you leave the page. You will need to use it as your password to log-in and you won’t be able to see it again after leaving the page.
 
