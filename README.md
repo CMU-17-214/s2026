@@ -352,7 +352,7 @@ The schedule below reflects our current plans, but will be updated throughout th
 Instructor: [Hammad Ahmad](https://hammadahmad.io/) [hammada]
 
 TAs: 
-- Brunce Cheng [yikangc]
+- Bruce Cheng [yikangc]
 - Jingxuan Zhang [jingxua7]
 - Alex Feies [afeies]
 - David Hu [junningh]
