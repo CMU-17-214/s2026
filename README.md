@@ -8,7 +8,7 @@ After completing this course, students will:
 
 - Be comfortable with object-oriented concepts and with programming in the Java or TypeScript / JavaScript language
 - Have experience designing medium-scale systems with patterns
-- Have experience testing and analyzing your software
+- Have experience testing and analyzing software
 - Understand principles of concurrency and distributed systems
 
 See a more detailed list of [learning goals](https://cmu-17-214.github.io/s2026/learninggoals.html) describing what we want students to know or be able to do by the end of the semester. We evaluate whether learning goals have been achieved through assignments and exams.
