@@ -22,7 +22,7 @@ Demonstrate those practices with all commits you do in this lab and also in all 
 
 ## Improving Encapsulation
 
-<u>Fork</u> and clone this repository: <https://github.com/CMU-17-214/s26-lab02>. (You can just click the Fork button above `<> Code` on GitHub to fork the repository.)
+<u>Fork</u> and clone this repository: <https://github.com/CMU-17-214/f25-lab02>. (You can just click the Fork button above `<> Code` on GitHub to fork the repository.) Note that you cannot make changes to the original respository; you need to fork first to be able to commit and push your changes.
 
 This repository contains equivalent starter code in both Java and TypeScript. You will complete this task in both languages.
 
