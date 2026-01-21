@@ -62,7 +62,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr class="">
       <td>Wed, Jan 21</td>
-      <td>OO Analysis and UML</td>
+      <td><a href="https://docs.google.com/presentation/d/10bsxafe_IYbS811YUQFcbFh1XQsjhCxLODgiY_xosfk/edit?usp=sharing" target="_blank">OO Analysis and UML</a></td>
       <td />
     </tr>
     <tr>
