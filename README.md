@@ -89,7 +89,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr>
       <td>Fri, Jan 30</td>
-      <td><span class="rec">Lab 3</span> Inheritance and Delegation</td>
+      <td><span class="rec">Lab 3</span> <a href="https://github.com/CMU-17-214/s2026/blob/main/labs/lab03.md" target="_blank">Inheritance and Delegation</a></td>
       <td />
     </tr>
   </tbody>
@@ -113,7 +113,7 @@ The schedule below reflects our current plans, but will be updated throughout th
   <tbody>
     <tr>
       <td>Mon, Feb 9</td>
-      <td><span class="assignment"><span class="hw">HW 2a due</span> Santorini: Intro to Design</td>
+      <td><span class="assignment"><span class="hw">HW 2a due</span> <a href="https://github.com/CMU-17-214/s2026/blob/main/assignments/hw2.md" target="_blank">Santorini: Intro to Design</a></td>
       <td />
     </tr>
     <tr>
