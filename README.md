@@ -84,7 +84,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr class="">
       <td>Wed, Jan 28</td>
-      <td>Inheritance and Delegation</td>
+      <td><a href="https://docs.google.com/presentation/d/1S6J5aaNo8UydPikpECoZbJUJeriBo89RoxYv3GrW_eQ/edit?usp=sharing" target="_blank">Inheritance and Delegation</a></td>
       <td />
     </tr>
     <tr>
