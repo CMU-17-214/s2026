@@ -140,7 +140,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr class="">
       <td>Mon, Feb 16</td>
-      <td>Specifications and Unit Testing, Exceptions</td>
+      <td><a href="https://docs.google.com/presentation/d/16oM13phJpG2aRg7BoA8wmk15ajg0wg06MhlNCWo78VU/edit?usp=sharing" target="_blank">Specifications and Unit Testing, Exceptions</a></td>
       <td />
     </tr>
     <tr class="">
