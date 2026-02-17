@@ -150,7 +150,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr>
       <td>Fri, Feb 20</td>
-      <td><span class="rec">Lab 6</span> Unit Testing</td>
+      <td><span class="rec">Lab 6</span> <a href="https://github.com/CMU-17-214/s2026/blob/main/labs/lab06.md" target="_blank">Unit Testing</a></td>
       <td />
     </tr>
   </tbody>
@@ -162,7 +162,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr>
       <td>Wed, Feb 25</td>
-      <td><span class="assignment"><span class="hw">HW 3 due</span> Testing</span></td>
+      <td><span class="assignment"><span class="hw">HW 3 due</span> <a href="https://github.com/CMU-17-214/s2026/blob/main/assignments/hw3.md" target="_blank">Testing</a></span></td>
       <td />
     </tr>
     <tr>
