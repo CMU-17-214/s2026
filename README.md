@@ -135,7 +135,7 @@ The schedule below reflects our current plans, but will be updated throughout th
   <tbody>
     <tr>
       <td>Mon, Feb 16</td>
-      <td><span class="assignment"><span class="hw">HW 2b due</span> Santorini: Peer Review</td>
+      <td><span class="assignment"><span class="hw">HW 2b due</span> <a href="https://github.com/CMU-17-214/s2026/blob/main/assignments/hw2.md#milestone-2b-peer-review" target="_blank">Santorini: Peer Review</a></td>
       <td />
     </tr>
     <tr class="">
