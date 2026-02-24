@@ -339,7 +339,7 @@ The schedule below reflects our current plans, but will be updated throughout th
   </tbody>
   <tbody>
     <tr class="midterm">
-      <td>Date TBD<br />Time TBD</td>
+      <td>Thur, Apr 30<br />5:30-8:30pm</td>
       <td>Final Exam</br />Location TBD</td>
       <td />
     </tr>
