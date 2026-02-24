@@ -33,7 +33,7 @@ These three terms are usually used interchangeably in practice, but there are so
 
 ## Instructions
 
-Clone the repository from [https://github.com/CMU-17-214/F25-lab07](https://github.com/CMU-17-214/f25-lab07). Run the following command to get started:
+Clone the repository from [https://github.com/CMU-17-214/s26-lab07](https://github.com/CMU-17-214/s26-lab07). Run the following command to get started:
 ```
 mvn install
 ```
