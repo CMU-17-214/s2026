@@ -8,9 +8,9 @@ This assignment will give you more experience with critiquing object-oriented de
 
 **Static website generators.** Static website generators are tools that generate [static web pages](https://en.wikipedia.org/wiki/Static_web_page) from various inputs. It allows users to create and customize web pages without writing HTML code directly. This can be used for project pages but also for sophisticated content managment systems. At the same time, static web pages are cheap and easy to deploy and host and do not require a server that interprets code when serving web pages. For example, they can be hosted on [CMU web space](https://www.cmu.edu/computing/services/comm-collab/websites/awps/index.html). Commonly, the page is simply regenerated when any of the inputs change, possibly automated.
 
-Static web sites have become very popular with [GitHub Pages](https://pages.github.com/). By default, GitHub uses [Jekyll](https://jekyllrb.com/) as a popular static web site generator, but [many other exist](https://staticsitegenerators.net/) and it can be easy to write a custom one.  Sometimes it is easier to write a new generator then try to work with the complexity or limitations of existing ones. For example, the 17-214/514 web page was generated with a custom static website generator, taking as input Markdown files, a Google Calc spreadsheet with the schedule, and a directory with slides.
+Static web sites have become very popular with [GitHub Pages](https://pages.github.com/). By default, GitHub uses [Jekyll](https://jekyllrb.com/) as a popular static web site generator, but [many others exist](https://staticsitegenerators.net/) and it can be easy to write a custom one.  Sometimes it is easier to write a new generator then try to work with the complexity or limitations of existing ones. For example, the 17-214/514 web page was generated with a custom static website generator, taking as input Markdown files, a Google Calc spreadsheet with the schedule, and a directory with slides.
 
-**The project.** In this homework, you take over a custom static website generator written to support a webpage for student clubs, that contain articles and events. The code is kind of functional, but not quite finished, and it is poorly designed in many ways. The original authors wanted to introduce events and a calendar and have written much of the code for it, but the complexity got out of hand so it was never finished. Additionally, noone has worked on making the produced website look nice yet. Documentation is fairly sparse and there are no automated tests, just an example project.
+**The project.** In this homework, you take over a custom static website generator written to support a webpage for student clubs, that contain articles and events. The code is kind of functional, but not quite finished, and it is poorly designed in many ways. The original authors wanted to introduce events and a calendar and have written much of the code for it, but the complexity got out of hand so it was never finished. Additionally, no one has worked on making the produced website look nice yet. Documentation is fairly sparse and there are no automated tests, just an example project.
 
 The project roughly works like this: Everything is organized as a project (top-level directory). A project has a title and is owned by an organization, configured in a YAML file. Each directory represents an event or an article. Events and articles can have other events or articles within them.  Events or articles can have pictures and videos. They can be organized by topics (tags). Events have a name and a start and end date. The front page lists recent article/events and a calendar of upcoming events.
 
@@ -67,7 +67,7 @@ We ask you to perform the following tasks:
 
 We expect 4 closed issues with links to one or more commits after the design improvement.
 
-### Improve Testing
+### Improve testing
 
 You should also improve the tests included in the repository. This may require modifying the tests and/or modifying the code itself.
 
@@ -89,6 +89,14 @@ For the "SubSubSubSubSubArticles" problem **only**, create a partial *object mod
 
 Commit the diagram as `sub-articles.pdf` in the root directory of the branch you are working on.
 
+### Reflect on your experience
+
+In your `reflection.md` file, reflect on your experience with this assignment:
+- If you used GenAI to help with this assignment, what worked well, and what did not work? In particular, how useful was GenAI with the "SubSubSubSubSubArticles" problem? 
+- If you did not use GenAI for this assignment, what part(s) do you think GenAI would have been helpful with, in retrospect? 
+
+Your response does not have to be long; a few sentences will suffice.
+
 ## Hints for design problems
 
 The code has many problems, and several methods are in the wrong place. Some methods clearly do a lot more work than they should and depend on knowing details of other objects. There is a lot of encapsulation violation throughout the code. The way topics are stored is weird. The way sorting is managed seems rather inflexible and repetitive. There is a lot of copy pasted code that could be abstracted, including several methods in several files and entire files. There are lots of `instanceof` checks that are a sign of possibly bad design. Some of these problems may benefit from using a design pattern, but for most problems a design pattern is not needed. Usually, reasoning with design heuristics and design principles is sufficient.
@@ -101,7 +109,7 @@ One part of the design seems particularly problematic: The way articles are nest
 
 ## Submitting your work
 
-Always submit all your changes to GitHub. Once you have pushed your final code and the partial object model there, submit a link to your final commit on Canvas. A link will look like `https://github.com/CMU-17-214-Students/<reponame>/commit/<commitid>`. You can get to this link easily when you click on the last commit (above the list of files) in the GitHub web interface. We expect to find (closed) issues in the repository you link to.
+Always submit all your changes to GitHub. Once you have pushed your final code, the partial object model, and your reflection there, submit a link to your final commit on Canvas. A link will look like `https://github.com/CMU-17-214-Students/<reponame>/commit/<commitid>`. You can get to this link easily when you click on the last commit (above the list of files) in the GitHub web interface. We expect to find (closed) issues in the repository you link to.
 
 ## Evaluation
 
@@ -115,7 +123,7 @@ The assignment is worth 110 points. We expect to grade the assignment approximat
   - [ ] 4pt: There is an issue on GitHub that (a) names the test in the title, (b) identifies which of the SOLID principles is violated, and (c) explains *why* this is a problem. the issue's text demonstrates an understanding of each of the design problems.
   - [ ] 4pt: The issue is (a) closed with (b) a description of the fix and (c) a link to the commit(s) that contain the fix so that we can find the fix in the implementation. The change indeed improves the testability of the code without introducing new problems.
 - [ ] 14pt: For "SubSubSubSubSubArticles": An issue (named "SubSubSubSubSubArticles" or similar) describes why the old implementation was problematic. The issue is closed with a link to the commit(s) that contain the fix and a description of how it was improved in a way that demonstrates an understanding of design reasoning and the used design pattern (if any). The fixed implementation better handles articles and subarticles with less code duplication and better implementations for common functionality like `getTopics`, `printSize`, and parent/child relationships.
-- [ ] 10pt. The repository contains a partial object model in `sub-articles.pdf` in the root directory of your branch that describes the design fix for the "SubSubSubSubSubArticles" problem. It needs only include the classes involved with your fix. The diagram should be consistent with the actual implementation, use suitable notation, and be at the right level of abstraction.
+- [ ] 10pt. The repository contains a partial object model in `sub-articles.pdf` in the root directory of your branch that describes the design fix for the "SubSubSubSubSubArticles" problem. It needs only include the classes involved with your fix. The diagram should be consistent with the actual implementation, use suitable notation, and be at the right level of abstraction. Also included are few sentences reflecting on your experience with this assignment (`reflection.md`).
 - [ ] 10pt: The Git commits are cohesive and have meaningful descriptions that indicate what fix they are part of. The changes did not introduce severe style or readability issues.
 
 *If the submitted link does not have the right format, we will not be able to grade your solution and will assign 0 points.*
@@ -126,7 +134,7 @@ The assignment is worth 110 points. We expect to grade the assignment approximat
 
 The code can be executed with the provided sample project which executes most of the functionality of the project. To make this easier, we set up `mvn exec:exec` to execute the program with arguments `-d testProject --list-articles --all --list-events --topics --clean --size` which executes most code of the project. Of course, you can also run the program from within your IDE using a configured launch.json with these arguments. These commands generate a directory called `_static` by default that contains all the HTML and CSS files to render the webpage.
 
-When you initialize the starter repository, we recommend that you generate the webpage with the initial code and rename that directory (to e.g. `_static_original`), so you can have a reference to the original webpage. Refer to the [Testing Section](#testing) for the commands to re-generate the webpage directory as you refactor and ensure the new output is the same as the original. If you begin refactoring without doing so and want a reference, you can check out the initial commit and generate the webpage with the starter code.
+When you initialize the starter repository, we recommend that you generate the webpage with the initial code and rename that directory (to e.g. `_static_original`), so you can have a reference to the original webpage. Refer to the [Testing Section below](#testing) for the commands to re-generate the webpage directory as you refactor and ensure the new output is the same as the original. If you begin refactoring without doing so and want a reference, you can check out the initial commit and generate the webpage with the starter code.
 
 To view the webpage, go to the directory and open `index.html`. From VSCode, you can either click on 'Open in Default Browser' or 'Copy Path' and paste that into the address bar of your browser.
 
