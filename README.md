@@ -222,7 +222,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr>
       <td>Wed, Mar 18</td>
-      <td><span class="assignment"><span class="hw">HW 2c due</span> Santorini: Final design</td>
+      <td><span class="assignment"><span class="hw">HW 2c due</span> <a href="https://github.com/CMU-17-214/s2026/blob/main/assignments/hw2.md" target="_blank">Santorini: Final design</a></td>
       <td />
     </tr>
     <tr>
