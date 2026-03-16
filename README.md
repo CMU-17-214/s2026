@@ -210,14 +210,14 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr>
       <td>Fri, Mar 13</td>
-      <td><span class="rec">Lab 8</span> Java Parallelism</td>
+      <td><span class="rec">Lab 8</span> <a href="https://github.com/CMU-17-214/s2026/blob/main/labs/lab08.md" target="_blank">Java Parallelism</a></td>
       <td />
     </tr>
   </tbody>
   <tbody>
     <tr>
       <td>Mon, Mar 16</td>
-      <td>Concurrency and Asynchrony in TypeScript</td>
+      <td><a href="https://docs.google.com/presentation/d/1YUgVurfVymI_vfK3VP-uXVl_7vuBqn1PAGxl588NMTM/edit?usp=sharing" target="_blank">Concurrency and Asynchrony in TypeScript</a></td>
       <td />
     </tr>
     <tr>
