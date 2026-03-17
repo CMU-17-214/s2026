@@ -50,4 +50,4 @@ Enable the Google Cloud Vision API by following [this link](https://console.clou
 
 ### Run and modify code
 
-Clone the repository <https://github.com/CMU-17-214/f25-lab09> and follow the directions in the README.
+Clone the repository <https://github.com/CMU-17-214/s26-lab09> and follow the directions in the README.
