@@ -15,7 +15,7 @@ The starter code already handles all the communication with Wikipedia and the Go
 The code consists of two related projects: The backend *express* implementation in the root directory and the frontend *React* implementation in directory `frontend`.  Compile and run the code as follows:
 
 * First, build the frontend
-  * run `npm install`  in the `frontend/` directory. (Note: deprecation and security vulnerability warnings here are expected)
+  * run `npm install`  in the `frontend/` directory. (Note: Deprecation and security vulnerability warnings here are expected. We will revisit this later in the semester.)
   * `npm run build` in `frontend/` to build the frontend, which will result in static pages in `frontend/build/`
 * Second, build and run the backend
   * run `npm install` in the root directory
