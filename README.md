@@ -232,7 +232,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr>
       <td>Fri, Mar 20</td>
-      <td><span class="rec">Lab 9</span> Concurrency and Promises</td>
+      <td><span class="rec">Lab 9</span> <a href="https://github.com/CMU-17-214/s2026/blob/main/labs/lab09.md" target="_blank">Concurrency and Promises</a></td>
       <td />
     </tr>
     <tr>
@@ -262,7 +262,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr>
       <td>Wed, Apr 1</td>
-      <td><span class="assignment"><span class="hw">HW 5 due</span> Concurrency</td>
+      <td><span class="assignment"><span class="hw">HW 5 due</span> <a href="https://github.com/CMU-17-214/s2026/blob/main/assignments/hw5.md" target="_blank">Concurrency</a></td>
       <td />
     </tr>
     <tr>
