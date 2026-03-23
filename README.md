@@ -240,7 +240,7 @@ The schedule below reflects our current plans, but will be updated throughout th
   <tbody>
     <tr>
       <td>Mon, Mar 23</td>
-      <td>GUIs</td>
+      <td><a href="https://docs.google.com/presentation/d/1Q273J9GnuihOmkbCiiMlPHJrsIA1oyjMhhq-1yexBIY/edit?usp=sharing" target="_blank">GUIs</a></td>
       <td />
     </tr>
     <tr class="midterm">
