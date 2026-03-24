@@ -12,13 +12,13 @@ In this lab, you will learn the fundamentals of React.js and create an interacti
 ## Instructions
 
 ### Setup
-Fork and clone the Quiz App repository from: [https://github.com/CMU-17-214/f25-lab10](https://github.com/CMU-17-214/f25-lab10) and run
+Fork and clone the Quiz App repository from: [https://github.com/CMU-17-214/s26-lab10](https://github.com/CMU-17-214/s26-lab10) and run
 
 ```
 npm install
 npm start
 ```
-![Local Image](https://github.com/CMU-17-214/f25-lab10/blob/main/src/image/starterPic.png)
+![Local Image](https://github.com/CMU-17-214/s26-lab10/blob/main/src/image/starterPic.png)
 
 This will start the front-end server. You will be able to see a simple quiz GUI from the link http://localhost:3000/. You can update the front-end code as the server is running in the development mode (i.e., `npm start`). It will automatically recompile and reload.
 
@@ -34,7 +34,7 @@ The component uses JSX to return HTML-like markup directly, displaying the quest
 You will notice the `Quiz.tsx` file contains both the logic and the graphical user interface (GUI) of the quiz application. 
 As the project grows, it's best practice to separate the application's core logic from its GUI components.
 
-We've provided a core implementation at [src/core/QuizCore.ts](https://github.com/CMU-17-214/f25-lab10/blob/main/src/core/QuizCore.ts). This core module encapsulates critical quiz operations. It's designed to manage the quiz's functionality independently of the GUI. Your task is to integrate this core with the user interface `Quiz.tsx`. Ensure that your GUI component correctly reflects the data from the QuizCore. Update your component to display the questions and answer options provided by the core. Take care to observe and update the user's selected options and other state changes effectively.
+We've provided a core implementation at [src/core/QuizCore.ts](https://github.com/CMU-17-214/s26-lab10/blob/main/src/core/QuizCore.ts). This core module encapsulates critical quiz operations. It's designed to manage the quiz's functionality independently of the GUI. Your task is to integrate this core with the user interface `Quiz.tsx`. Ensure that your GUI component correctly reflects the data from the QuizCore. Update your component to display the questions and answer options provided by the core. Take care to observe and update the user's selected options and other state changes effectively.
 <br><br>
 ### Task 2: Enhance User Experience
 The starter code displays the user’s selection as text directly and your task is to improve the user experience by making it visually engaging. You have the creative freedom to design how the selected option is displayed.
