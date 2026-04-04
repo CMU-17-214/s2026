@@ -306,7 +306,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr>
       <td>Wed, Apr 15</td>
-      <td>TBD</td>
+      <td>DevOps</td>
       <td />
     </tr>
     <tr>
@@ -318,7 +318,7 @@ The schedule below reflects our current plans, but will be updated throughout th
   <tbody>
     <tr>
       <td>Mon, Apr 20</td>
-      <td>DevOps</td>
+      <td>Static & Dynamic Analyses</td>
       <td />
     </tr>
     <tr>
