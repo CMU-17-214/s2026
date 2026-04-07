@@ -12,7 +12,7 @@ This lab will test your knowledge of good API design principles. For this lab yo
 
 ## Instructions
 
-Clone the repository from: [https://github.com/CMU-17-214/f25-lab12]
+Clone the repository from: [https://github.com/CMU-17-214/s26-lab12]
 
 Inside the repository you will find three different APIs: DirManager, Library, and Weather. For each of these, you should identify the flaw, update the code, and also update the documentation to match the code that you corrected. You will get full points for each of them if you are able to both identify and fix the flaws.
 
