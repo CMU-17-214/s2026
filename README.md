@@ -289,7 +289,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr>
       <td>Wed, Apr 8</td>
-      <td>Supply Chain Security</td>
+      <td><a href="https://docs.google.com/presentation/d/1YoOMUDJGqPH7lUai7k1Q3NyLEe2X4vhGVYvr1_hjNAs/edit?usp=sharing" target="_blank">Supply Chain Security</a></td>
       <td />
     </tr>
     <tr>
