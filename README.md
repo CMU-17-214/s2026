@@ -340,7 +340,7 @@ The schedule below reflects our current plans, but will be updated throughout th
   <tbody>
     <tr class="midterm">
       <td>Thur, Apr 30<br />5:30-8:30pm</td>
-      <td>Final Exam</br />Location TBD</td>
+      <td>Final Exam</br />Hamerschlag Hall (HH) B103</td>
       <td />
     </tr>
   </tbody>
