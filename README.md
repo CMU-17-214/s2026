@@ -301,7 +301,7 @@ The schedule below reflects our current plans, but will be updated throughout th
   <tbody>
     <tr>
       <td>Mon, Apr 13</td>
-      <td>Distributed Systems: Designing for Robustness</td>
+      <td><a href="https://docs.google.com/presentation/d/1rdvSOLc-snOvY_Do6kI8Vt4Sryo4CLeYaAgedfIMFO8/edit?usp=sharing" target="_blank">Distributed Systems: Designing for Robustness</a></td>
       <td />
     </tr>
     <tr>
