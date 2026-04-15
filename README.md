@@ -306,7 +306,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr>
       <td>Wed, Apr 15</td>
-      <td>DevOps</td>
+      <td><a href="https://docs.google.com/presentation/d/142LnbouZQp9KrKxnd2P1rJStexp7Ho2I5HMo-42kqgY/edit?usp=sharing" target="_blank">DevOps</a></td>
       <td />
     </tr>
     <tr>
