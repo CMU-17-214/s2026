@@ -318,7 +318,7 @@ The schedule below reflects our current plans, but will be updated throughout th
   <tbody>
     <tr>
       <td>Mon, Apr 20</td>
-      <td>Static & Dynamic Analyses</td>
+      <td><a href="https://docs.google.com/presentation/d/1iQD9IO6CffsE37eEt9Q1CqGtl5a4blwO72Ljpeeg_o0/edit?usp=sharing" target="_blank">Static & Dynamic Analyses</a></td>
       <td />
     </tr>
     <tr>
