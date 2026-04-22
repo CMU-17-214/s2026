@@ -328,7 +328,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr>
       <td>Wed, Apr 22</td>
-      <td>The Last One: Looking Back & Looking Forward</td>
+      <td><a href="https://docs.google.com/presentation/d/1FptLpMefUQRSPE33cJczBuydqAeXq_AhljdFv7yoio8/edit?usp=sharing" target="_blank">The Last One: Looking Back & Looking Forward</a></td>
       <td />
     </tr>
     <tr>
